@@ -1,0 +1,39 @@
+
+
+[
+    {
+    "id": 10,
+    "name": "Ahmde",
+    "article_sec": "NASA",
+    "article_title": "NASA's Perseverance Rover",
+    "article": "\"NASA's Perseverance Rover Successfully Lands on Mars\": NASA's Perseverance rover landed on Mars on February 18, 2021, after a seven-month journey. The rover is equipped with advanced instruments designed to search for signs of ancient microbial life, study the planet's geology and climate, and pave the way for human exploration."
+    },
+    {
+      "id": 2,
+      "name": "Mohamed",
+      "article_sec": "NASA",
+      "article_title": "NASA's Perseverance Rover",
+      "article": "\"Apple Unveils New Products at Spring Loaded Event\": Apple unveiled severalnew products at its Spring Loaded event on April 20, 2021, including a new iMac, iPad Pro, AirTag, and Apple TV 4K. The new iMac features a sleek design and is powered by Apple's M1 chip, while the iPad Pro now boasts 5G connectivity and a Liquid Retina XDR display. The AirTag is a small, circular device that can be attached to personal items to help locate them, and the new Apple TV 4K features a redesigned Siri remote and improved audio and video capabilities."
+    },
+    {
+      "id": 3,
+      "name": "Hamed",
+      "article_sec": "NASA",
+      "article_title": "NASA's Perseverance Rover",
+      "article": "\"WHO Approves Chinese COVID-19 Vaccine\": The World Health Organization (WHO) has approved the Sinopharm COVID-19 vaccine for emergency use. The vaccine, which is developed by a Chinese state-owned company, has been found to be safe and effective in preventing COVID-19 in clinical trials."
+    },
+    {
+      "id": 4,
+      "name": "Nader",
+      "article_sec": "bodapest",
+      "article_title": "NASA's Perseverance Rover",
+      "article": "\"Bitcoin Hits All-Time High\": On April 14, 2021, the price of bitcoin reached an all-time high of over $64,000. The surge in price was driven by increased institutional adoption and demand from retail investors. However, the price has since fallen, and the cryptocurrency market remains volatile."
+    },
+    {
+      "id": 5,
+      "name": "BOdy",
+      "article_sec": "NASA",
+      "article_title": "NASA's Perseverance Rover",
+      "article": "\"Amazon Announces Plans to Build a New Headquarters in Virginia\": Amazon has announced plans to build a new headquarters in Arlington, Virginia, which is expected to create over 25,000 jobs. The headquarters, which will be located in the National Landing neighborhood, will be Amazon's second-largest after its Seattle headquarters."
+    }
+  ]

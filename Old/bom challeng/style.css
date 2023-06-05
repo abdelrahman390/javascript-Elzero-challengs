@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    background-color: #c5c5c5;
+    height: 70px;
+}
+
+.input{
+    height: 35px;
+    width: 400px;
+    margin-top: 13px;
+}
+
+.add{
+    height: 41px;
+}
+
+.tasks{
+    background-color: #c5c5c5;
+    height: 80px;
+    margin-top: 80px;
+}
